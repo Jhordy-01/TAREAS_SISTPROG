@@ -1,0 +1,64 @@
+# Investigación sobre Tipos de Sensores
+
+## Introducción
+
+Los sensores son dispositivos que detectan y responden a estímulos del entorno, convirtiendo las variaciones físicas, químicas o biológicas en señales eléctricas o digitales. Son fundamentales en sistemas programables, permitiendo la interacción con el mundo físico y la automatización de procesos. Esta investigación se centra en los diferentes tipos de sensores, su funcionamiento y aplicaciones.
+
+## Clasificación de Sensores
+
+Los sensores se pueden clasificar según diversos criterios, como el principio de funcionamiento, la magnitud que miden, o su tecnología. A continuación, se presentan las clasificaciones más comunes.
+
+### 1. Según el Principio de Funcionamiento
+
+#### a. Sensores Analógicos
+Producen una señal continua que varía de acuerdo con la magnitud medida. Ejemplos incluyen:
+- **Termistores**: Miden la temperatura.
+- **Potenciómetros**: Miden la posición angular o desplazamiento.
+
+#### b. Sensores Digitales
+Generan señales discretas que representan condiciones específicas. Ejemplos incluyen:
+- **Sensores de proximidad**: Detectan la presencia de un objeto sin contacto.
+- **Sensores de temperatura digital (como el DS18B20)**: Proporcionan lecturas de temperatura en formato digital.
+
+### 2. Según la Magnitud que Miden
+
+#### a. Sensores de Temperatura
+Detectan la temperatura de un objeto o entorno. Ejemplos:
+- **Termopares**: Utilizan el efecto Seebeck para medir temperaturas altas.
+- **Termistores**: Cambian su resistencia con la temperatura.
+
+#### b. Sensores de Luz
+Miden la intensidad luminosa. Ejemplos:
+- **Fotocélulas**: Utilizadas en sistemas de iluminación automática.
+- **Fotorresistencias**: Cambian su resistencia según la luz recibida.
+
+#### c. Sensores de Movimiento
+Detectan movimiento en un área determinada. Ejemplos:
+- **Acelerómetros**: Miden la aceleración y se utilizan en dispositivos móviles.
+- **Sensores PIR (infrarrojos pasivos)**: Detectan movimiento de personas o animales.
+
+#### d. Sensores de Presión
+Miden la presión de gases o líquidos. Ejemplos:
+- **Transductores de presión**: Usados en aplicaciones industriales.
+- **Barómetros**: Miden la presión atmosférica.
+
+### 3. Según la Tecnología
+
+#### a. Sensores Resistivos
+Su resistencia cambia con la magnitud medida. Ejemplo: termistores.
+
+#### b. Sensores Capacitivos
+La capacitancia cambia al variar la magnitud medida. Ejemplo: sensores de proximidad capacitivos.
+
+#### c. Sensores Piezoeléctricos
+Generan una carga eléctrica cuando se les aplica presión. Ejemplo: micrófonos piezoeléctricos.
+
+## Aplicaciones de los Sensores
+
+Los sensores son esenciales en diversas aplicaciones, que incluyen:
+
+- **Automatización industrial**: Control de procesos y monitoreo de condiciones.
+- **Domótica**: Control de sistemas de iluminación, climatización y seguridad.
+- **Salud**: Monitoreo de signos vitales en dispositivos médicos.
+- **Transporte**: Sistemas de navegación y control de vehículos.
+
