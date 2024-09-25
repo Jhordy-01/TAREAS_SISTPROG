@@ -1,1 +1,0 @@
-##Investigación sobre Tipos de Sensores
