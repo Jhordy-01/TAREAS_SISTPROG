@@ -1,4 +1,4 @@
-# Investigación: Tipos de Sensores
+# Investigación: Tipos de Sensores.
 
 ## Introducción
 Un sensor es un dispositivo que detecta o mide una propiedad física y registra, indica o responde a ella. Los sensores son componentes clave en una gran cantidad de aplicaciones, desde sistemas industriales hasta dispositivos médicos y electrónica de consumo. A continuación, se describen algunos de los principales tipos de sensores y sus aplicaciones.
